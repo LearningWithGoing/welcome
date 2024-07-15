@@ -14,4 +14,4 @@
 
 【本期活动目标】:一起学习进步
 
-link to 书山训练营第三期
+link to 书山训练营第三期 https://github.com/InternLM/Tutorial/blob/camp3/
